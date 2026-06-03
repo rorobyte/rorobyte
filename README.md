@@ -39,5 +39,4 @@ I'll be sharing projects,possibly practice excerises, etc here. I'm currently le
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rorobyte/rorobyte/output/pacman-contribution-graph.svg">
 </picture>
 
-![](https://streak-stats.demolab.com/?user=rorobyte&theme=gruvbox&hide_border=false)
 
