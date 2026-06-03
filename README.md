@@ -34,9 +34,9 @@ I'll be sharing projects,possibly practice excerises, etc here. I'm currently le
 ![](https://github-readme-stats.shion.dev/api?username=rorobyte&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[rorobyte/rorbyte/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rorobyte/rorobyte/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rorobyte/rorobyte/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rorobyte/rorobyte/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rorobyte/rorobyte/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rorobyte/rorobyte/output/github-snake.svg" />
 </picture>
 
 
