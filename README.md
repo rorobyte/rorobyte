@@ -1,7 +1,7 @@
-# robin
+# About me
 
 <p> Hello, i'm robin(alias)
-I'll be sharing projects, and possibly other things etc. 
+I'll be sharing projects, and possibly other things that spark my interest.
 I'm currently learning python and C and have an interest for networks and cybersecurity.</p>
 
 <h1 style="text-align: center;">
