@@ -1,9 +1,13 @@
-##Hi I'm robin (online!)
-I am a beginner in cybersecurity, and a network engineering student.
-hobbies : graphic design, amateur artist 
+# Hi I'm robin (online!)
 
-I'm interested in : malware analysis, digital forensics
-Currently studying : network management, ethical hacking, python, java, 
+I am a beginner in cybersecurity, and a network engineering student.    
+
+Hobbies: graphic design, amateur artist  
+
+I'm interested in: malware analysis,       digital forensics.                      
+
+Currently studying: network management, ethical hacking, python, java, 
+
 Hands-on Labs: Documenting my journey through TryHackMe, Hack The Box, burpesuite and homelab setups etc.
 
 
