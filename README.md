@@ -1,32 +1,12 @@
-# About me
+##Hi I'm robin (online!)
+I am a beginner in cybersecurity, and a network engineering student.
+hobbies : graphic design, amateur artist 
 
-<p> Hello, i'm robin(alias)
-I'll be sharing projects, and possibly other things that spark my interest.
-I'm currently learning python and C and have an interest for networks and cybersecurity.</p>
-
-<h1 style="text-align: center;">
-💻 Tech Stack:</h1>
-
-<div style="text-align: center;">
-
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
-</div>
-
-<br>
-
-# Tools/Technologies
-
-![Git](https://img.shields.io/badge/git-orange?style=plastic&logo=git&logoColor=%23F03C2E&logoSize=amd&labelColor=white&color=%23F03C2E)
-![Gitlab](https://img.shields.io/badge/gitlab-orange?style=plastic&logo=gitlab&logoColor=%23F03C2E&logoSize=amd&labelColor=white&color=%23FC6D26)
-![IntellijIDEA](https://img.shields.io/badge/intellijidea-black?style=plastic&logo=intellijidea&logoColor=%23000000&logoSize=amd&labelColor=white&color=white)
-![Clion](https://img.shields.io/badge/Clion-black?style=plastic&logo=clion&logoColor=%23000000&logoSize=amd&labelColor=white&color=white)
-![Pycharm](https://img.shields.io/badge/Pycharm-black?style=plastic&logo=pycharm&logoColor=%23000000&logoSize=amd&labelColor=white&color=white)
+I'm interested in : malware analysis, digital forensics
+Currently studying : network management, ethical hacking, python, java, 
+Hands-on Labs: Documenting my journey through TryHackMe, Hack The Box, burpesuite and homelab setups etc.
 
 
-<h1 style="text-align: center;">Operating System</h1>
-
-![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=%23000000%20&logoSize=amd&labelColor=%23FCC624&color=black)
-![Fedora](https://img.shields.io/badge/Fedora-lightblue?style=for-the-badge&logo=fedora&logoColor=%2351A2DA&logoSize=amd&labelColor=white&color=%2351A2DA)
 
 
 <h1 style="text-align: center-left;">📊 GitHub Stats:</h1>
@@ -38,5 +18,4 @@ I'm currently learning python and C and have an interest for networks and cybers
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rorobyte/rorobyte/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/rorobyte/rorobyte/output/github-snake.svg" />
 </picture>
-
 
