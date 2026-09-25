@@ -1,12 +1,12 @@
-# About
+
 
 I am a beginner in cybersecurity, and a network engineering student.    
 
-Hobbies: graphic design, amateur artist  
+I'm interested in: malware analysis, digital forensics.     
 
-I'm interested in: malware analysis,       digital forensics.                      
+Hobbies: graphic design, amateur artist ...
 
-Currently studying: network management, ethical hacking, python, java, 
+Currently learning: network management, advanced routing, ccna, python, java, 
 
 Hands-on Labs: Documenting my journey through TryHackMe, Hack The Box, burpesuite and homelab setups etc.
 
@@ -17,9 +17,5 @@ Hands-on Labs: Documenting my journey through TryHackMe, Hack The Box, burpesuit
 
 ![](https://github-readme-stats.shion.dev/api?username=rorobyte&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rorobyte/rorobyte/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rorobyte/rorobyte/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/rorobyte/rorobyte/output/github-snake.svg" />
-</picture>
+
 
