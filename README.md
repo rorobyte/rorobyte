@@ -3,13 +3,13 @@
 
  - 🌱A beginner in Cybersecurity, and a network engineering student.    
 
-- 👀**I'm interested in:** Malware analysis, Digital forensics, Telecommunications   
+- 👀**Interested in:** Information security, Malware analysis, Digital forensics  
 
-- 😄**Hobbies include:** graphic design, amateur artist ...
+- 😄**Hobbies:** graphic design, amateur artist ...
 
-- 📚**Currently learning:** Network  Fundamentals, CCNA, Java, Python, Reverse Engineering
+- 📚**Currently learning:** Networking Concepts, CCNA, Java, Python, Reverse Engineering
 
-- 🗃️**Hands-on Labs:** Documenting CTFs, Homelabs, assignments etc.
+- 🗃️**Hands-on:** Documenting CTFs, Homelabs, assignments etc.
 
 
 
